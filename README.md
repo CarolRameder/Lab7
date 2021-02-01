@@ -1,4 +1,4 @@
-# Lab7
+# Syncronized basic game
 
 An example of how the program works is given in the attached photo .
 The features :
